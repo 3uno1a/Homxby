@@ -24,6 +24,7 @@ smart door lock - 원격 도어락 시스템으로 버튼을 길게 눌러 서�
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/03e794a7-1178-493d-b607-06db513c9c8f)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/6e8cdfd7-cd96-43d4-8fb5-75c52f4ce577)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/684968b7-9a67-4112-861b-82f36cf11197)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/b89d8f93-b48a-4158-9aa0-61a61657d1bb)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/cedac6f1-8831-4734-a4c0-925cdd9dc193)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/ab0f415a-15c8-4ea9-9ce3-5b145c826b03)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/81f299b2-f1e0-4831-b480-e0ef27f4614d)
