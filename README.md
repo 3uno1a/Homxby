@@ -18,3 +18,13 @@ smart door lock - 원격 도어락 시스템으로 버튼을 길게 눌러 서�
              스마트 제어를 off로 하면 수동으로 에어컨, 히터, 제습기, 가습기를 컨트롤 할 수 있음
              
 스마트 커튼 제어 - 원격으로 커튼을 제어하고 커튼의 개폐 상태를 알려줌
+
+
+![image](https://github.com/eunjijen/Homxby/assets/75493219/05ae85f5-1e2c-4a92-9b29-44ca529f855f)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/03e794a7-1178-493d-b607-06db513c9c8f)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/6e8cdfd7-cd96-43d4-8fb5-75c52f4ce577)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/684968b7-9a67-4112-861b-82f36cf11197)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/cedac6f1-8831-4734-a4c0-925cdd9dc193)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/ab0f415a-15c8-4ea9-9ce3-5b145c826b03)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/81f299b2-f1e0-4831-b480-e0ef27f4614d)
+![image](https://github.com/eunjijen/Homxby/assets/75493219/d66c75b6-9860-4d6c-8a1e-a72e80aa4061)
