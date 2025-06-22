@@ -7,15 +7,18 @@
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/05ae85f5-1e2c-4a92-9b29-44ca529f855f)
 
 ## 홈 화면 
-### 현재 시간, 온도, 습도, 밝기, 문 열림 상태, 커튼 상태 등을 보여줌
+- 현재 시간, 온도, 습도, 밝기, 문 열림 상태, 커튼 상태 등을 보여줌
+- 
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/03e794a7-1178-493d-b607-06db513c9c8f)
 
 
 ## smart cam 
-### 실시간으로 문 앞의 상황을 촬영, 방문자가 20cm이내로 가까이 오면 사진을 촬영하고 서버에 업로드
+- 실시간으로 문 앞의 상황을 촬영, 방문자가 20cm이내로 가까이 오면 사진을 촬영하고 서버에 업로드
+- 
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/6e8cdfd7-cd96-43d4-8fb5-75c52f4ce577)
 
-### 버튼을 누르면 촬영된 사진 리스트를 보여주고 하나하나 누를 수 있도록 함
+- 버튼을 누르면 촬영된 사진 리스트를 보여주고 하나하나 누를 수 있도록 함
+- 
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/684968b7-9a67-4112-861b-82f36cf11197)
 
 
