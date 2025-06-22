@@ -17,26 +17,21 @@
 
 ### 버튼을 누르면 촬영된 사진 리스트를 보여주고 하나하나 누를 수 있도록 함
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/684968b7-9a67-4112-861b-82f36cf11197)
-![image](https://github.com/eunjijen/Homxby/assets/75493219/b89d8f93-b48a-4158-9aa0-61a61657d1bb)
 
 
 ## smart door lock 
 ### 원격 도어락 시스템으로 버튼을 길게 눌러 서보 모터의 각도를 변경하여 문을 열고 닫음
 ### 실시간 문 열림 상태를 api에서 받아와 화면에 출력
-               
+![image](https://github.com/eunjijen/Homxby/assets/75493219/cedac6f1-8831-4734-a4c0-925cdd9dc193)
+
 ## 온습도 제어 
 ### 기준 온/습도 설정
 ### 실시간 온/습도와 기준 온/습도를 비교하여 에어컨, 히터, 제습기, 가습기 on/off 제어
 ### 스마트 제어 off 시, 수동으로 에어컨, 히터, 제습기, 가습기 제어 가능
-             
-## 스마트 커튼 제어 
-### 원격으로 커튼을 제어하고 커튼의 열림/닫힘 상태를 알려줌
-
-
-
-
-
-![image](https://github.com/eunjijen/Homxby/assets/75493219/cedac6f1-8831-4734-a4c0-925cdd9dc193)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/ab0f415a-15c8-4ea9-9ce3-5b145c826b03)
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/81f299b2-f1e0-4831-b480-e0ef27f4614d)
+
+
+## 스마트 커튼 제어 
+### 원격으로 커튼을 제어하고 커튼의 열림/닫힘 상태를 알려줌
 ![image](https://github.com/eunjijen/Homxby/assets/75493219/d66c75b6-9860-4d6c-8a1e-a72e80aa4061)
